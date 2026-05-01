@@ -9,9 +9,6 @@
 ---
 
 ## 👨‍ Обо мне
-
--  Сейчас работаю над **Booking System API** на Go
-- 🌱 Изучаю: микросервисы, gRPC, Docker, Kubernetes
 - 💼 Ищу позицию **Junior Go Developer**
 - 📍 Казахстан
 
@@ -28,7 +25,7 @@
 </p>
 
 ### Tools
-<p align="left">
+<p align="right">
   <img src="https://img.shields.io/badge/Docker-Latest-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white" />
