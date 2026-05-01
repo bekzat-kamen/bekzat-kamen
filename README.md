@@ -1,16 +1,12 @@
 # 👋 Привет, я Бекзат!
+- 💼 Ищу позицию **Junior/Middle Go Developer**
+- 📍 Казахстан
 
 ### 🚀 Go Backend Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/bekzat-kamen)
 [![Telegram](https://img.shields.io/badge/Telegram-@username-blue?logo=telegram)](https://t.me/begzatkamen)
 [![Email](https://img.shields.io/badge/Email-email%40example.com-red?logo=gmail)](mailto:begzat.kamen@gmail.com)
-
----
-
-## 👨‍ Обо мне
-- 💼 Ищу позицию **Junior Go Developer**
-- 📍 Казахстан
 
 ---
 
@@ -25,7 +21,7 @@
 </p>
 
 ### Tools
-<p align="right">
+<p align="">
   <img src="https://img.shields.io/badge/Docker-Latest-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white" />
