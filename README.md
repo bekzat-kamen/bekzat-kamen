@@ -51,23 +51,4 @@
 
 ---
 
-## 📫 Связь со мной
-
-<p align="left">
-  <a href="https://t.me/begzatkamen">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" />
-  </a>
-  <a href="mailto:begzat.kamen@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-### Спасибо, что заглянули! 👋
-
-**Хорошего дня!** ⭐
-
 </div>
