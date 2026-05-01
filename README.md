@@ -45,37 +45,6 @@
 
 ---
 
-## 🔥 Мои проекты
-
-### 🎫 **Booking System API**
-[![Booking API](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/bekzat-kamen/booking_system_api)
-[![CI/CD](https://github.com/bekzat-kamen/booking_system_api/actions/workflows/go.yml/badge.svg)](https://github.com/bekzat-kamen/booking_system_api/actions)
-[![Coverage](https://codecov.io/gh/bekzat-kamen/booking_system_api/branch/main/graph/badge.svg)](https://codecov.io/gh/bekzat-kamen/booking_system_api)
-
-**Стек:** Go, Gin, PostgreSQL, Redis, JWT, Docker, GitHub Actions
-
-REST API для системы бронирования мероприятий с:
-- ✅ JWT аутентификация
-- ✅ Промокоды и скидки
-- ✅ Rate limiting
-- ✅ CI/CD пайплайн
-- ✅ Покрытие тестами >70%
-
----
-
-### 📚 **CRUD API Book**
-[![Book API](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/bekzat-kamen/crud_api_book)
-
-Учебный проект для изучения Clean Architecture
-
----
-
-## 📈 Активность
-
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=bekzat-kamen&theme=github-compact&hide_border=true)
-
----
-
 ## 🏆 Достижения
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bekzat-kamen&theme=dark&no-bg=true&no-frame=true&row=1&column=4)
