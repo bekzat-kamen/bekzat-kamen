@@ -3,7 +3,7 @@
 ### 🚀 Go Backend Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/bekzat-kamen)
-[![Telegram](https://img.shields.io/badge/Telegram-@username-blue?logo=telegram)]((https://t.me/begzatkamen))
+[![Telegram](https://img.shields.io/badge/Telegram-@username-blue?logo=telegram)]((@begzatkamen))
 [![Email](https://img.shields.io/badge/Email-email%40example.com-red?logo=gmail)](mailto:begzat.kamen@gmail.com)
 
 ---
