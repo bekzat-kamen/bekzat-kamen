@@ -36,19 +36,3 @@
 </p>
 
 ---
-
-## 📊 Моя статистика
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bekzat-kamen&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekzat-kamen&layout=compact&theme=github_dark&hide_border=true)
-
----
-
-## 🏆 Достижения
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bekzat-kamen&theme=dark&no-bg=true&no-frame=true&row=1&column=4)
-
----
-
-</div>
